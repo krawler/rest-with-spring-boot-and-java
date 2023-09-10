@@ -11,4 +11,12 @@ public class Greeting {
 		this.name = name;
 	}
 
+	public long getCounter() {
+		return counter;
+	}
+
+	public String getName() {
+		return name;
+	}
+
 }
